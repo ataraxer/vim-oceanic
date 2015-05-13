@@ -28,7 +28,7 @@ hi String           ctermfg=2    ctermbg=NONE cterm=NONE
 hi TODO             ctermfg=1    ctermbg=NONE cterm=italic
 hi Visual           ctermfg=NONE ctermbg=NONE cterm=italic
 
-hi EasyMotionTarget ctermfg=2
+hi EasyMotionTarget ctermfg=14 ctermbg=NONE cterm=bold
 
 hi ExtraWhitespace ctermbg=1
 match ExtraWhitespace /\s\+$/
