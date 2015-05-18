@@ -30,9 +30,6 @@ hi Visual           ctermfg=NONE ctermbg=NONE cterm=italic
 
 hi EasyMotionTarget ctermfg=2
 
-hi ExtraWhitespace ctermbg=1
-match ExtraWhitespace /\s\+$/
-
 hi link Float            Number
 hi link SpecialKey       Special
 hi link Debug            Special
